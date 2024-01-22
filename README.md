@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## About me
+Software and Web Developer
+Graduated from McMaster University with a degree in Computer Science in 2020
+Currently pursuing a Web Development Graduate Certificate at Humber College
+If I'm coding in my free time it's probably a Minecraft Mod.
+
+## I'm Multilingual
+
+
 <!--
 **apentenk/apentenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
